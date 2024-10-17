@@ -1,0 +1,21 @@
+[debug] [2024-10-17T15:24:34.223Z] ----------------------------------------------------------------------
+[debug] [2024-10-17T15:24:34.227Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-17T15:24:34.227Z] CLI Version:   13.22.1
+[debug] [2024-10-17T15:24:34.228Z] Platform:      win32
+[debug] [2024-10-17T15:24:34.228Z] Node Version:  v20.17.0
+[debug] [2024-10-17T15:24:34.228Z] Time:          Thu Oct 17 2024 17:24:34 GMT+0200 (South Africa Standard Time)
+[debug] [2024-10-17T15:24:34.228Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-17T15:24:34.236Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-17T15:24:34.237Z] > authorizing via signed-in user (tlotlisomporo87@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\DELL\Desktop\Tlotliso Mporo React
+
